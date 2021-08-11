@@ -1,1 +1,1 @@
-# https://github.com/peterbeer/testpage.git
+# https://peterbeer.github.io/testpage/
